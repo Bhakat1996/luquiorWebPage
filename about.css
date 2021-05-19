@@ -1,0 +1,38 @@
+body{
+    background: #e1e5ea;
+}
+p{
+    width: 100%;
+    font-size: xx-large;
+    line-height: 100px;
+    width: 70%;
+    text-align: center;
+    margin: auto 15%;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    line-height: 100px;
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+    line-height: 100px;
+}
+h4{
+    font-size: 30px;
+    text-align: center;
+    line-height: 100px;
+}
+hr{
+    border-style: dotted;
+    border-width: 10px;
+    border-top: none;
+    width: 20%;
+    border-color: grey;
+    margin: 100px auto;
+}

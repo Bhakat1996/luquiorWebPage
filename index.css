@@ -1,0 +1,118 @@
+body{
+    background: linear-gradient(to left,#ffcc00,#ff5c00);
+    margin:0px;
+}
+.container{
+    font-size:xx-large;
+    margin-top: 5px;
+    }
+a{text-decoration: none;
+    color:darkolivegreen;
+    line-height: 100px;
+    margin: 50px 50px 50px 0;
+}
+h1{
+    font-size: 5cm;
+    font-family: 'Mountains of Christmas', cursive;
+    margin-top: 0;
+}
+h4{
+    font-size: 2cm;
+    font text-align-last: left;
+}
+h2{
+    font-size: 2cm;
+}
+h3{
+    font-size: 2cm;
+}
+h5{
+    font-size: xx-large;
+    text-align: center;
+}
+table{
+    font-size:xx-large;
+    color: chartreuse;   
+}
+table1{
+    font-size: xx-large;
+    ;
+}
+p{
+    color: whitesmoke;
+    font-size: smaller;
+}
+*{
+    box-sizing: border-box;
+}
+.row{
+    float: left;
+    width: 20%;
+    padding: 10px;
+    font-size: xx-large;
+}
+.row img{
+    height: 300px;
+    border-radius: 50%;
+}
+.row2{
+    float: left;
+    width: 20%;
+    padding: 10px;
+    font-size: xx-large;
+}
+.row2 img{
+    height: 300px;
+    border-radius: 50%;
+}
+.row3{
+    float: left;
+    width: 20%;
+    padding: 10px;
+    font-size: xx-large;
+}
+.row3 img{
+    height: 300px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
+.Beer{
+    font-style: italic;
+    text-align-last: center;
+    line-height: 50px;
+    padding-bottom: 300px;
+}
+.whiskey{
+    font-style: italic;
+    text-align-last: center ;
+    line-height: 50px;
+    padding-bottom: 300px;
+}
+.rum{
+    font-style: italic;
+    text-align-last: center;
+    margin-bottom: 80px;
+    padding-bottom: 500px;
+}
+.lower{
+    text-align-last: center;
+    font-style: normal;
+    font-size: x-large;
+    background-color: #ffd384;
+    padding:5px 20px 30px;
+
+}
+hr{
+    border-style: dotted;
+    border-width: 10px;
+    border-top: none;
+    width: 20%;
+    border-color: grey;
+    margin: 100px auto;
+    
+}
+a:hover{
+    color: white;
+    margin-left: 20;
+
+}
